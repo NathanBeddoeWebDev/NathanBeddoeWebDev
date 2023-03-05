@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathan
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Rust and Deno.
+- 🌱 I’m currently learning Golang.
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me 
   - email: nbedd2@protonmail.com
